@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'English Grammar',
+  title: 'English',
   // description: 'Hello, Object-c',
   head: [
       ['link', {
@@ -26,11 +26,20 @@ module.exports = {
 // sidebarDepth: 2,
 sidebar: [
   {
-    title: 'English Grammer',
+    title: 'Grammer',
     // collapsable: false,
     children: [
       'chapter1/',
       'chapter1/preposition'
+    ]
+  },         
+        
+  {
+    title: 'Reading',
+    // collapsable: false,
+    children: [
+      'chapter2/',
+      'chapter2/book'
     ]
   },         
         
