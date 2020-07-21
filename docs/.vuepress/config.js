@@ -29,8 +29,9 @@ sidebar: [
     title: 'Grammer',
     // collapsable: false,
     children: [
-      'chapter1/',
-      'chapter1/preposition'
+      '词/',
+      '词/preposition',
+      '词/active',
     ]
   },         
         
